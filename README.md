@@ -9,3 +9,7 @@ Chopra does however limit his time with phone to specific hours so I wonder what
 
 Also, this is my favorite line from the article:
 > Moving to a yurt would be like giving up.
+
+
+### New Comment by Claudia Jiang
+While I do agree with Chopra's ideas about embracing technology, I am also slightly hesitant to go to the extreme that he advocates for. Humans and animals are special in the sense that we have innate ability to sense the world around us. By allowing technology to drive everything, we start to become desensitized and lose the ability to do things we were previously capable of. For example, prior to the phone, people still managed to read a paper map and get around. However, hand anyone a physical map today and expect them to navigate is a tall ask. I'm not advocating for a world without GoogleMaps, just one where we still retain some of our human roots and don't rely on technology for everything. 
