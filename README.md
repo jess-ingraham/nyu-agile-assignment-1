@@ -1,6 +1,5 @@
 # Deepak Chopra has a prescription for what ails technology
 ## by Geoffrey A. Fowler
----
 
 [Read the article here](https://www.washingtonpost.com/technology/2019/01/10/deepak-chopra-has-prescription-what-ails-technology/?utm_term=.c45d8c5bed2e)
 
@@ -9,4 +8,4 @@
 Chopra does however limit his time with phone to specific hours so I wonder what his response would be to the "glued to our phones" debate. He also has a very realistic idea of how the technology should be approached and that everything gets tested and reviewed. However, overall he has a wonderful outlook on how technology will overall help our society. With everything moving forward, those who don't embrace the technolgy advancements will get left behind. 
 
 Also, this is my favorite line from the article:
-> Moving to a yurt would be like giving up
+> Moving to a yurt would be like giving up.
